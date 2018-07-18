@@ -1,0 +1,3 @@
+READ:
+http://mir.ilsp.gr/rhythm_analysis.html#
+https://labrosa.ee.columbia.edu/projects/musicunderstanding/
